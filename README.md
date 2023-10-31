@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 
 ### I'm Richard Zowalla
 
-:bird: Twitter: https://twitter.com/zowalla
-
-:computer: Stackoverflow: https://stackoverflow.com/users/4506678/rzo1
-
-:book: (Scientific) Publications: https://www.hs-heilbronn.de/zowalla.publications
-
-:construction_worker: Currently working for https://www.hs-heilbronn.de & https://www.colorful-bytes.com
+Dr. sc. hum. in Medical Informatics |  ASF Member | https://s.apache.org/rzo1 |  #OSS ♥️
